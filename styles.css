@@ -15,5 +15,9 @@ h2{
   text-align: center;
 }
 h1{
+width: auto;
   font-size: 48px;
+  padding: 35px;
+  margin: 20px
+
 }
