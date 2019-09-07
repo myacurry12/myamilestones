@@ -1,22 +1,26 @@
 html{
-  background-color:#8FDBD8;
+  background-color: #F9EE02
 }
 body{
-  background-color: #F9EDD1;
+  background-color: #071CE5;
   margin: 0 auto;
 }
 header{
 font-family: 'Concert One', cursive;
   text-align: center;
-  background-color: #FEAAC2
+  background-color: #F9EE02
 }
 h2{
   font-family: 'Chilanka', cursive;
   text-align: center;
+  font-size:30px
 }
 h1{
 width: auto;
   font-size: 48px;
   padding: 10px;
   margin: 20px;
+}
+p{
+  border: 30px; color: #F9EE02
 }
